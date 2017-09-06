@@ -1,0 +1,30 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongockhanh3103/Mean-Stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "App"
+  ],
+  "author": "Ezio Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongockhanh3103/Mean-Stack/issues"
+  },
+  "homepage": "https://github.com/dongockhanh3103/Mean-Stack#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
